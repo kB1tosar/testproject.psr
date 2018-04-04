@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Добавление страны</title>
+    <link href="stylish.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="header">
+    <h1><a class="reference" href="index.php" title="На главную">
+        <img src="includes/img/flags.png" width="30px">Википедия о странах</a></h1>
+    <a class="about" title="Обо мне" href="https://volgograd.hh.ru/resume/f00166caff044bc7be0039ed1f414668363034">Обо мне</a>
+    <hr>
+</div>
+<div class="center">
+<form method="POST" action="add_country.php" class="form" id="form">
+    <label>Здесь введите название страны: <br>
+    <input type="text" placeholder="Название страны" name="name_country"><br>
+    </label>
+    <label>Здесь введите название столицы:<br>
+    <input type="text" placeholder="Столица" name="capital"><br>
+    </label>
+    <label>Здесь введите год основания страны:<br>
+    <input type="text" placeholder="Год основания" name="year_of_foundation"><br>
+    </label>
+    <label>Здесь введите популяцию страны:<br>
+    <input type="text" placeholder="Популяция" name="population"><br>
+    </label>
+    <label>Здесь введите короткое описание:<br>
+    <textarea rows="10" cols="100" name="sh_description"></textarea>
+    </label>
+    <hr>
+    <input type="submit" value="Добавить" name="add_data"> <a href="index.php">На главную</a>
+</form>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="includes/qjs/dist/jquery.validate.js"></script>
+<script src="num_validate.js"></script>
+</body>
+</html>

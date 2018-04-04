@@ -1,0 +1,53 @@
+h1 {
+    color: teal;
+    margin-top:0;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+
+body{
+    margin-top: 0;
+}
+
+.reference{
+    text-decoration: none;
+    color: teal;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    border-spacing: 4px;
+}
+
+td {
+    padding: 5px;
+    padding-right: 30px;
+    border: 1px solid lightgray;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid black;
+    background-color: darkcyan;
+}
+
+.center {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.header{
+    background: #eeeee5;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+.about{
+    padding-left: 1340px;
+}
+
+.error-val {
+    color:red;
+}
