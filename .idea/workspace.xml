@@ -6,14 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="41dee513-2c81-4318-ac98-0725f97e3638" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/add_country.php" afterPath="$PROJECT_DIR$/add_country.php" />
       <change beforePath="$PROJECT_DIR$/form_add.html" afterPath="$PROJECT_DIR$/form_add.html" />
       <change beforePath="$PROJECT_DIR$/homepage.html" afterPath="$PROJECT_DIR$/homepage.html" />
-      <change beforePath="$PROJECT_DIR$/includes/qjs/Gruntfile.js" afterPath="$PROJECT_DIR$/includes/qjs/Gruntfile.js" />
-      <change beforePath="$PROJECT_DIR$/includes/qjs/README.md" afterPath="$PROJECT_DIR$/includes/qjs/README.md" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/num_validate.js" afterPath="$PROJECT_DIR$/validate_form.js" />
-      <change beforePath="$PROJECT_DIR$/stylish.css" afterPath="$PROJECT_DIR$/stylish.css" />
+      <change beforePath="$PROJECT_DIR$/stylish.css" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,10 +23,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <state relative-caret-position="21">
+              <caret line="5" column="65" lean-forward="false" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
               <folding>
-                <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+                <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
               </folding>
             </state>
           </provider>
@@ -62,9 +58,12 @@
       <file leaf-file-name="form_add.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form_add.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="11" column="112" lean-forward="false" selection-start-line="11" selection-start-column="112" selection-end-line="11" selection-end-column="112" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,7 +71,7 @@
       <file leaf-file-name="validate_form.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/validate_form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="731">
               <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding />
             </state>
@@ -83,17 +82,17 @@
         <entry file="file://$PROJECT_DIR$/homepage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="72" lean-forward="true" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="112" />
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="103" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylish.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylish.css">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="799">
+              <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -105,8 +104,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -118,18 +117,19 @@
       <list>
         <option value="$PROJECT_DIR$/connection.php" />
         <option value="$PROJECT_DIR$/2.html" />
-        <option value="$PROJECT_DIR$/includes/style.css" />
         <option value="$PROJECT_DIR$/style1.css" />
         <option value="$PROJECT_DIR$/jquery.validate.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/includes/connection.php" />
         <option value="$PROJECT_DIR$/num_validate.js" />
-        <option value="$PROJECT_DIR$/stylish.css" />
         <option value="$PROJECT_DIR$/template_for_add.html" />
         <option value="$PROJECT_DIR$/error_add.html" />
         <option value="$PROJECT_DIR$/success_add.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/add_country.php" />
+        <option value="$PROJECT_DIR$/stylish.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/style.css" />
+        <option value="$PROJECT_DIR$/stylesheet.css" />
         <option value="$PROJECT_DIR$/homepage.html" />
         <option value="$PROJECT_DIR$/form_add.html" />
       </list>
@@ -143,8 +143,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="259" />
-    <option name="y" value="29" />
+    <option name="x" value="348" />
+    <option name="y" value="264" />
     <option name="width" value="1400" />
     <option name="height" value="810" />
   </component>
@@ -170,6 +170,11 @@
             <path>
               <item name="testproject.psr" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject.psr" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="testproject.psr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject.psr" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -250,15 +255,15 @@
       <workItem from="1523964615210" duration="2531000" />
       <workItem from="1524209205723" duration="2570000" />
       <workItem from="1524302683594" duration="5133000" />
-      <workItem from="1524310595008" duration="7129000" />
+      <workItem from="1524310595008" duration="13844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147260000" />
+    <option name="totallyTimeSpent" value="153975000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="259" y="29" width="1400" height="810" extended-state="0" />
+    <frame x="348" y="264" width="1400" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -293,7 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/includes/style.css" />
     <entry file="file://$PROJECT_DIR$/homepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -307,7 +311,7 @@
         <state relative-caret-position="238">
           <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -334,7 +338,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -361,7 +365,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -388,7 +392,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -415,7 +419,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -442,7 +446,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -469,7 +473,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -496,7 +500,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
@@ -522,14 +526,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.ru.php" />
     <entry file="file://$PROJECT_DIR$/2.html" />
-    <entry file="file://$PROJECT_DIR$/includes/style.css" />
     <entry file="file://$PROJECT_DIR$/style1.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4E9C801B/index.php" />
     <entry file="file://$PROJECT_DIR$/style.css" />
@@ -543,14 +546,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/success_add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/error_add.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -559,37 +554,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylish.css">
+    <entry file="file://$PROJECT_DIR$/includes/success_add.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage.html">
+    <entry file="file://$PROJECT_DIR$/stylish.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="72" lean-forward="true" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="112" />
+        <state relative-caret-position="663">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate_form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="21">
+          <caret line="5" column="65" lean-forward="false" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
           <folding>
-            <marker date="1524318866149" expanded="true" signature="708:730" ph="SELECT * FRO... states" />
+            <marker date="1524322838173" expanded="true" signature="705:727" ph="SELECT * FRO... states" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/connection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,19 +599,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validate_form.js">
+    <entry file="file://$PROJECT_DIR$/includes/connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="103" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/form_add.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="11" column="112" lean-forward="false" selection-start-line="11" selection-start-column="112" selection-end-line="11" selection-end-column="112" />
-          <folding />
+        <state relative-caret-position="204">
+          <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

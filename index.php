@@ -3,14 +3,14 @@ include('includes/connection.php');
 include('homepage.html');
 ?>
 <head>
-    <link rel="stylesheet" type="text/css" href="stylish.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <link rel="stylesheet" type="text/css" href="includes/bootstrap-4.1.0-dist/css/bootstrap.css">
 </head>
 <body>
     <div class="center">
         <h2>Добро пожаловать!</h2>
         <p>Эта страница содержит в себе информацию о странах</p>
-        <table class="table table-striped">
+        <table class="table-striped">
             <tr>
                 <th>Страны</th>
                 <th>Столица</th>
