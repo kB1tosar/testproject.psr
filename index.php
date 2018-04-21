@@ -28,7 +28,7 @@ include('homepage.html');
                     '<td>' . $result['capital'] . '</td>' .
                     '<td>' . $result['year_of_foundation'] . '</td>' .
                     '<td>' . $result['population'] . '</td>' .
-                    '<td>' . $result['sh_description'] . '</td>' .
+                    '<td>' . $result['short_description'] . '</td>' .
                     '</tr>';
             }
         ?>

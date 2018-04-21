@@ -29,7 +29,7 @@ Include jQuery and the plugin on a page. Then select a form to validate and call
 	<input required>
 </form>
 <script src="jquery.js"></script>
-<script src="num_validate.js"></script>
+<script src="validate_form.js"></script>
 <script>
 $("form").validate();
 </script>

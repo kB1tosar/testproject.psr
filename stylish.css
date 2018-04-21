@@ -1,18 +1,5 @@
-h1 {
-    color: teal;
-    margin-top:0;
-    padding-top: 30px;
-    padding-bottom: 10px;
-
-}
-
 body{
     margin-top: 0;
-}
-
-.reference{
-    text-decoration: none;
-    color: teal;
 }
 
 table {
@@ -42,10 +29,6 @@ th {
     background: #eeeee5;
     margin-left: 240px;
     margin-right: 240px;
-}
-
-.about{
-    padding-left: 1340px;
 }
 
 .error-val {

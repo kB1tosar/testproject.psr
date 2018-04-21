@@ -81,7 +81,7 @@ grunt.initConfig( {
 		dist: {
 			files: {
 				"dist/additional-methods.min.js": "dist/additional-methods.js",
-				"dist/jquery.validate.min.js": "dist/num_validate.js"
+				"dist/jquery.validate.min.js": "dist/validate_form.js"
 			}
 		},
 		all: {
