@@ -4,14 +4,15 @@ include('homepage.html');
 ?>
 <div class="center">
     <?php
+    $db = mysqli_query($connection, "SELECT * FROM `states`");
     if (isset($_POST['add_data'])) {
         $add_name_Country = mysqli_real_escape_string($connection, htmlentities($_POST ['name_country']));
         $add_capital = mysqli_real_escape_string($connection, htmlentities($_POST ['capital']));
         $add_year = mysqli_real_escape_string($connection, htmlentities($_POST ['year_of_foundation']));
         $add_popul = mysqli_real_escape_string($connection, htmlentities($_POST ['population']));
-        $add_short_ds = mysqli_real_escape_string($connection, htmlentities($_POST ['sh_description']));
+        $add_short_ds = mysqli_real_escape_string($connection, htmlentities($_POST ['short_description']));
     } else {
-        echo "No connetcrion";
+        echo "No connection";
     }
 
 

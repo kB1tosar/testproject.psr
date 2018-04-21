@@ -12,7 +12,7 @@ $(document).ready(function(){
                 maxlength: 20,
             },
 
-            sh_description:{
+            short_description:{
                 maxlength: 1000,
                 required:true,
             },
@@ -41,7 +41,7 @@ $(document).ready(function(){
                 maxlength: "Максимальное число символов - 20",
             },
 
-            sh_description:{
+            short_description:{
                 required:"Это поле необходимо заполнить",
                 maxlength: "Максимальное число символов - 1000",
             },

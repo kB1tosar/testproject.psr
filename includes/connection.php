@@ -6,4 +6,4 @@ if ( $connection == false ){
     echo mysqli_connect_error();
     exit();
 }
-$db = mysqli_query($connection, "SELECT * FROM `states`");
+
