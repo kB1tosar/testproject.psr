@@ -7,18 +7,26 @@
     <link rel="stylesheet" type="text/css" href="includes/bootstrap-4.1.0-dist/css/bootstrap.css">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-default bg-light">
-         <div class="center">
-             <a class="navbar-brand" href="index.php" title="На главную">
-                 <img class="logo" src="includes/img/flags.png"><strong>Википедия о странах</strong></a>
-             <div class="navbar-collapse">
-                 <a class="nav-item nav-link" href ="form_add.html">Добавить страну</a>
-                 <a class="nav-item nav-link"
-                    href="https://volgograd.hh.ru/resume/f00166caff044bc7be0039ed1f414668363034">Обо мне</a>
-             </div>
-         </div>
-     </nav>﻿
-    <div class="center">
+<!--Реализована шапка сайта-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top ">
+        <div class="center">
+            <a class="navbar-brand" href="index.php" title="На главную">
+                <img class="logo" src="includes/img/flags.png"><strong>Википедия о странах</strong></a>
+            <div>
+                <ul class="navbar-nav">
+                    <li>
+                        <a class="nav-item nav-link" href ="form_add.html">Добавить страну</a>
+                    </li>
+                    <li>
+                        <a class="nav-item nav-link"
+                           href="https://volgograd.hh.ru/resume/f00166caff044bc7be0039ed1f414668363034">Обо мне</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>﻿
+<!--Задаются формы для заполнения данных-->
+    <div class="center indents">
         <form method="POST" action="add_country.php" class="form" id="form">
             <div class="form-group">
                 <label class="control-label" for="name_country">Здесь введите название страны:</label>
@@ -42,15 +50,17 @@
             </div>
             <hr>
             <input class="btn btn-success" type="submit" value="Добавить" name="add_data">
-            <a class="btn btn-primary" href="index.php">На главную</a>
+            <a class="btn btn-secondary" href="index.php">На главную</a>
         </form>
     </div>
+<!--Подключение JQuery для проверки вводимых данных-->
     <script src="includes/qjs/lib/jquery-3.1.1.js"></script>
     <script src="includes/qjs/dist/jquery.validate.js"></script>
     <script src="validate_form.js"></script>
-    <footer class="footer">
+<!--Реализован footer-->
+    <footer class="footer bg-primary fixed-bottom">
         <div class="center">
-            <span class="text-muted">Сделано для Intervolga</span>
+            <span>Сделано для Intervolga</span>
         </div>
     </footer>
 </body>

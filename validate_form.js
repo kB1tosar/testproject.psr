@@ -4,7 +4,7 @@ $(document).ready(function(){
         rules:{
             name_country:{
                 required:true,
-                maxlength: 100,
+                maxlength: 30,
             },
 
             capital:{
